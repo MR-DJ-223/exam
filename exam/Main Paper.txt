@@ -1,0 +1,139 @@
+1. Age Problem
+A man is twice as old as his son. Five years ago, he was three times as old as his son. How old is the son now?
+A) 10 years
+B) 15 years
+C) 20 years
+D) 25 years
+
+2. Time and Work
+If 4 people can complete a task in 10 days, how many days will it take 5 people to complete the same task?
+A) 7 days
+B) 8 days
+C) 9 days
+D) 10 days
+
+3. Number Series
+What is the next number in the series: 2, 6, 12, 20, 30, ...?
+A) 36
+B) 42
+C) 46
+D) 50
+
+4. Direction Sense
+A person walks 10 meters north, then turns right and walks 10 meters, then turns left and walks 5 meters. In which direction is he now from his starting point?
+A) North
+B) Northeast
+C) Northwest
+D) East
+
+5. Logical Reasoning
+All lions are animals. Some animals are cats. Therefore:
+A) All lions are cats
+B) Some cats are lions
+C) No cats are lions
+D) Cannot be determined
+
+6. Mixture Problem
+A jar contains 40 liters of milk. If 8 liters of milk are removed and replaced with water, what is the final ratio of milk to water?
+A) 4:1
+B) 5:3
+C) 5:2
+D) 7:3
+
+7. Ratio and Proportion
+If 5 pencils cost $1.50, how much would 8 pencils cost?
+A) $2.00
+B) $2.40
+C) $2.60
+D) $2.80
+
+8. Coding-Decoding
+If "CAT" is coded as "3120," how is "DOG" coded?
+A) 4150
+B) 4180
+C) 4175
+D) 4120
+
+9. Average Problem
+The average of five numbers is 20. If one number is removed, the average of the remaining numbers is 18. What was the removed number?
+A) 18
+B) 20
+C) 24
+D) 30
+
+10. Simple Interest
+If you invest $500 at an interest rate of 5% per year for 3 years, what is the simple interest earned?
+A) $50
+B) $75
+C) $100
+D) $125
+
+11. Distance and Speed
+A car travels 120 km in 2 hours. What is its average speed?
+A) 50 km/h
+B) 55 km/h
+C) 60 km/h
+D) 70 km/h
+
+12. Percentage Problem
+A dress is marked at $120 with a 25% discount. What is the sale price of the dress?
+A) $80
+B) $85
+C) $90
+D) $95
+
+13. Clock Problem
+What is the angle between the hour and minute hand of a clock at 3:30?
+A) 75°
+B) 90°
+C) 105°
+D) 120°
+
+14. Profit and Loss
+A merchant buys an item for $200 and sells it for $250. What is the profit percentage?
+A) 20%
+B) 25%
+C) 30%
+D) 35%
+
+15. Algebra
+If x+y=10 and x−y=4, what is the value of x?
+A) 5
+B) 7
+C) 8
+D) 10
+
+16. Blood Relation
+John is the son of Mary's father's brother. How is John related to Mary?
+A) Brother
+B) Cousin
+C) Uncle
+D) Nephew
+
+17. Geometry
+What is the area of a circle with a radius of 7 cm?
+A) 154 cm²
+B) 144 cm²
+C) 140 cm²
+D) 120 cm²
+
+18. Pipes and Cisterns
+A pipe can fill a tank in 6 hours, while another pipe can empty it in 9 hours. How long will it take to fill the tank if both pipes are open?
+A) 12 hours
+B) 15 hours
+C) 18 hours
+D) 20 hours
+
+19. Probability
+If you draw a card at random from a standard deck, what is the probability of drawing an Ace?
+A) 1/13
+B) 1/26
+C) 1/52
+D) 4/13
+
+20. Calendar Problem
+If today is Friday, what day will it be 50 days from now?
+A) Wednesday
+B) Thursday
+C) Friday
+D) Saturday
