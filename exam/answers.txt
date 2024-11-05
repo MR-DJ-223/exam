@@ -1,0 +1,81 @@
+Answer Explanations
+Age Problem
+
+Answer: B) 15 years
+Explanation: Let the son's age be x. Then the man's age is 2x. Five years ago, the man was three times as old as his son: 2x−5=3(x−5)2x - 5 = 3(x - 5)2x−5=3(x−5). Solving, 2x−5=3x−15⇒x=152x - 5 = 3x - 15 \Rightarrow x = 152x−5=3x−15⇒x=15.
+Time and Work
+
+Answer: B) 8 days
+Explanation: If 4 people complete the work in 10 days, the total work is 4×10=40 times 10 = 40×10=40 person-days. With 5 people, 40÷5=840 \div 5 = 840÷5=8 days.
+Number Series
+
+Answer: B) 42
+Explanation: The pattern is increasing by consecutive even numbers (2, 4, 6, 8, 10, ...). Adding 12 to the last term, 30 + 12 = 42.
+Direction Sense
+
+Answer: B) Northeast
+Explanation: The person moves 10 meters north, turns right (east) and moves 10 meters, then turns left (north) and walks 5 meters, ending up in the northeast direction from the start.
+Logical Reasoning
+
+Answer: D) Cannot be determined
+Explanation: The statements only tell us about the categories “lions” and “cats” as subgroups of “animals.” No specific relationship between lions and cats is given.
+Mixture Problem
+
+Answer: C) 5:2
+Explanation: After removing 8 liters, 32 liters of milk remain. Adding 8 liters of water makes the ratio of milk to water 32:8=5:232:8 = 5:232:8=5:2.
+Ratio and Proportion
+
+Answer: B) $2.40
+Explanation: If 5 pencils cost $1.50, each pencil costs $0.30. For 8 pencils: 8×0.30=2.408 \times 0.30 = 2.408×0.30=2.40.
+Coding-Decoding
+
+Answer: D) 4120
+Explanation: Assign each letter a position in the alphabet (C=3, A=1, T=20). “DOG” translates to (D=4, O=15, G=7) as 4150.
+Average Problem
+
+Answer: D) 30
+Explanation: The total sum of 5 numbers is 5×20=1005 \times 20 = 1005×20=100. After removing one, the sum is 4×18=724 \times 18 = 724×18=72. The removed number is 100−72=30100 - 72 = 30100−72=30.
+Simple Interest
+
+Answer: B) $75
+Explanation: Simple interest formula: SI=P×R×T100\text{SI} = \frac{P \times R \times T}{100}SI=100P×R×T​. Substituting P=500P = 500P=500, R=5%R = 5\%R=5%, T=3T = 3T=3: SI=500×5×3100=75SI = \frac{500 \times 5 \times 3}{100} = 75SI=100500×5×3​=75.
+Distance and Speed
+
+Answer: C) 60 km/h
+Explanation: Average speed = Total DistanceTotal Time=1202=60 km/h\frac{\text{Total Distance}}{\text{Total Time}} = \frac{120}{2} = 60 \, \text{km/h}Total TimeTotal Distance​=2120​=60km/h.
+Percentage Problem
+
+Answer: C) $90
+Explanation: A 25% discount means paying 75% of the marked price. 120×0.75=90120 \times 0.75 = 90120×0.75=90.
+Clock Problem
+
+Answer: C) 105°
+Explanation: Each hour represents a 30° angle. At 3:30, the minute hand is on 6 (180°), and the hour hand is at 3.5 hours, or 3.5×30=1053.5 \times 30 = 1053.5×30=105°.
+Profit and Loss
+
+Answer: B) 25%
+Explanation: Profit percentage = ProfitCost Price×100=50200×100=25%\frac{\text{Profit}}{\text{Cost Price}} \times 100 = \frac{50}{200} \times 100 = 25\%Cost PriceProfit​×100=20050​×100=25%.
+Algebra
+
+Answer: C) 8
+Explanation: From x+y=10x + y = 10x+y=10 and x−y=4x - y = 4x−y=4, adding equations gives 2x=14⇒x=72x = 14 \Rightarrow x = 72x=14⇒x=7.
+Blood Relation
+
+Answer: B) Cousin
+Explanation: John is Mary’s father’s brother’s son, making John Mary’s cousin.
+Geometry
+
+Answer: A) 154 cm²
+Explanation: Area of a circle = πr2\pi r^2πr2. Substituting r=7r = 7r=7: 22/7×7×7=154 cm222/7 \times 7 \times 7 = 154 \, \text{cm}^222/7×7×7=154cm2.
+Pipes and Cisterns
+
+Answer: B) 15 hours
+Explanation: Net rate with both pipes open = 16−19=118\frac{1}{6} - \frac{1}{9} = \frac{1}{18}61​−91​=181​. The time to fill the tank is 18 hours.
+Probability
+
+Answer: A) 1/13
+Explanation: There are 4 Aces in a deck of 52 cards, so the probability of drawing an Ace is 452=113\frac{4}{52} = \frac{1}{13}524​=131​.
+Calendar Problem
+
+Answer: D) Saturday
+Explanation: Dividing 50 by 7 gives a remainder of 1. Moving 1 day from Friday lands on Saturday.
