@@ -1,0 +1,79 @@
+1. What is the smallest prime number greater then 50.
+ans : 53
+
+2. A basket contains 325 apples, if you takeaway 55 , how many apples do you have.
+ans : 55
+
+3. how many times can you subtract 10 from 100.
+ans : one time.
+
+4. How many month's have 28 days.
+ans : 12
+
+5. what goes up , but never comes down
+ans : Age
+
+6. what has a head and tail , but no body..?
+ans : coin
+
+7. A father and son were in a car accident, the father died and the son was taken to the hospital 
+    the  docket said "i cant operated on him , because he is my son" Who is the doctor
+
+    ans : His Mother.
+
+8. If an electric train going with 100kms and wind goes back 50kmps opposite side, what is the direction of smoke..?
+ ans : invaild 
+
+9. How many sides does a circle's Have 
+ans : 2 sides( inside and outside)
+
+10. if the sum of two numbers is 20 and deff is 4, what is the product of two numbers.
+
+ans 12, 8
+
+11. in a class of 48 students(), there are 50% of boys , how many girls are there.
+ans : 24
+
+12. How many 2 occures in 1 - 100 numbers
+ ans : 20
+
+13. A man has 5 sons , each son has a sister, how many childrens does that man have.?
+ans : 5 + 1 = 6
+
+14. 5 cats can catch 5 mice in 5 mins how long will it take for 10 cats ctach 10 mice..?
+ans : 5 mins
+
+15. how many dots in 6 sides dice.
+ans : 21
+
+16. When is PI day celebrated.
+ans : march 14 (3.14)
+
+17. 3.8 metrictonne equals to how many kilograms.
+ans : 3800kgs
+
+18. how many prime numbers below 100.
+ans : 25
+
+19. smallest composite number.
+ans : 4
+
+20. if today is monday , what is the day after 20 days.
+ans : sunday
+
+21. one meter and 25 cm is equal to how many cms..?
+ans : 125cms
+
+22. how many numbers are divided by 3 and 5, from 1 - 50
+ ans : 3
+
+23. root(25) + root(49) + root(36) ...?
+ans : 24
+
+24. what is the value of Pi ( minimum 3 digits after decimal)
+ans : 3.1415
+
+25. (a-x)(b-x)(c-x).....(z-x)...? or (1-7)(2-7)(3-7)...(10-7)...?
+ans : 0
+
+26. 
