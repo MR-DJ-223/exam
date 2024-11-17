@@ -109,4 +109,18 @@ ans : 240s(4mins)
 
 ans : 12
 
-36. 
+36. in roman V11 is 7, x is 10, but what is the value of XC..?
+ans : 90
+
+37. how many blocks are there in chess board, or how many peices in chess.
+ans : 64 blocks & 32 peices
+
+38. If 15 books are shared equally among 4 students, how many books does each student get, and how many are left?
+ans : 3 books for each student, and 3 books left.
+
+39. if 1st page red, 2nd page blue and 3rd page is green, and the book pages reapeating this color sequence,
+then what is color of 53 page number 
+
+ans :  Blue.(53÷3=17 remainder 2) 
+
+40. a
