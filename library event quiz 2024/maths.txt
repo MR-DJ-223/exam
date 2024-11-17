@@ -76,4 +76,10 @@ ans : 3.1415
 25. (a-x)(b-x)(c-x).....(z-x)...? or (1-7)(2-7)(3-7)...(10-7)...?
 ans : 0
 
-26. 
+26. 2,5,8,11,14 .... 15th term in this series.
+ans : 47
+
+27. If a=1, b=2,c=3 ...z=26, then want is the value of INDIA ..?
+ans : I=9,N=14,D=4,A=1 total = 37
+
+28. 
