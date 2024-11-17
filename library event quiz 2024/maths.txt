@@ -29,7 +29,7 @@ ans : 2 sides( inside and outside)
 
 10. if the sum of two numbers is 20 and deff is 4, what is the product of two numbers.
 
-ans 12, 8
+ans a=12, b=8,a*b=96
 
 11. in a class of 48 students(), there are 50% of boys , how many girls are there.
 ans : 24
@@ -68,7 +68,7 @@ ans : 125cms
  ans : 3
 
 23. root(25) + root(49) + root(36) ...?
-ans : 24
+ans : 23
 
 24. what is the value of Pi ( minimum 3 digits after decimal)
 ans : 3.1415
@@ -76,10 +76,22 @@ ans : 3.1415
 25. (a-x)(b-x)(c-x).....(z-x)...? or (1-7)(2-7)(3-7)...(10-7)...?
 ans : 0
 
-26. 2,5,8,11,14 .... 15th term in this series.
-ans : 47
+26. 2,5,8,11,14 .... 10th term in this series.
+ans : 29
 
 27. If a=1, b=2,c=3 ...z=26, then want is the value of INDIA ..?
 ans : I=9,N=14,D=4,A=1 total = 37
 
-28. 
+28. A rectangular garden is 20 meters long and 15 meters wide. What is its area?
+ans : 20*15 = 300
+
+29. If 12 pens cost $36, how much will 7 pens cost?
+ans : 36/12 => 3*7 = 21
+
+30. How many sides does a heptagon have?
+ans : 7
+
+31. what is the root(169)..?
+ans : 13
+
+32. What is the next number in the sequence: 1, 4, 9, 16, ___?
