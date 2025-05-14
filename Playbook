@@ -1,0 +1,88 @@
+---
+- name: Gather OS and Cloud Instance Details
+  hosts: all
+  gather_facts: true
+  vars:
+    aws_metadata_url: "http://169.254.169.254/latest/meta-data"
+  tasks:
+
+    - name: Ping test (Linux)
+      ansible.builtin.ping:
+      when: ansible_os_family != "Windows"
+      become: true
+
+    - name: Ping test (Windows)
+      ansible.windows.win_ping:
+      when: ansible_os_family == "Windows"
+
+    - name: Display OS family
+      debug:
+        msg: "OS Family is {{ ansible_os_family }}"
+
+    - name: Check if instance is running on AWS
+      uri:
+        url: "{{ aws_metadata_url }}/instance-id"
+        method: GET
+        return_content: yes
+        status_code: 200
+      register: instance_id_result
+      failed_when: false
+      when: ansible_os_family != "Windows"
+
+    - name: Set instance_id fact
+      set_fact:
+        instance_id: "{{ instance_id_result.content | default('') }}"
+      when: instance_id_result is defined and instance_id_result.status == 200
+
+    - name: Get AMI ID from metadata
+      uri:
+        url: "{{ aws_metadata_url }}/ami-id"
+        method: GET
+        return_content: yes
+      register: ami_id_result
+      when: instance_id is defined and instance_id != ""
+
+    - name: Set AMI ID fact
+      set_fact:
+        ami_id: "{{ ami_id_result.content }}"
+      when: ami_id_result is defined and ami_id_result.status == 200
+
+    - name: Fetch AMI creation date using AWS CLI (requires AWS credentials)
+      command: >
+        aws ec2 describe-images
+        --image-ids {{ ami_id }}
+        --query 'Images[0].CreationDate'
+        --output text
+      register: ami_creation_date
+      when: ami_id is defined
+      failed_when: false
+
+    - name: Get EC2 instance details using AWS CLI
+      command: >
+        aws ec2 describe-instances
+        --instance-ids {{ instance_id }}
+        --query 'Reservations[0].Instances[0]'
+        --output json
+      register: ec2_info
+      when: instance_id is defined
+      failed_when: false
+
+    - name: Parse EC2 creation date
+      set_fact:
+        instance_launch_time: "{{ (ec2_info.stdout | from_json).LaunchTime }}"
+        instance_tags: "{{ (ec2_info.stdout | from_json).Tags }}"
+      when: ec2_info is defined and ec2_info.stdout != ""
+
+    - name: Display AWS details
+      debug:
+        msg:
+          - "AMI ID: {{ ami_id }}"
+          - "AMI Creation Date: {{ ami_creation_date.stdout }}"
+          - "Instance Launch Time: {{ instance_launch_time }}"
+          - "Tags: {{ instance_tags }}"
+      when: instance_id is defined
+
+    - name: Display message if not on AWS
+      debug:
+        msg: "Instance is not on AWS or metadata service unavailable"
+      when: instance_id is not defined
